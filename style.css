@@ -1,0 +1,30 @@
+.container{
+    display: flex;
+    align-items: center;
+    height: 600px;
+    border: 1px;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    flex-direction: column;
+    background-color: white;
+    flex-wrap: wrap;
+    font-size: 15px;
+}
+
+.divider{
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+    font-weight: 700;
+}
+
+
+img{
+    width: 300px;
+    border-radius: 20px;
+}
+footer{
+    text-align: end;
+    font-size: small;
+}
