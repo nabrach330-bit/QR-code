@@ -1,0 +1,41 @@
+.Principal{
+    width: 100%;
+    border-radius: 10px;
+}
+body{
+    background-color: #d1dee3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: open sans;
+    font-size: 13px;
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+
+} 
+.card{
+    padding: 20px;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 20px;
+    width: 300px;
+    box-shadow: 0 10px 25px rgba[0,0,0,15];
+}
+.text 1{
+    color:#192d4f;
+
+}
+paragraph{
+    color: #88888a;
+}
+footer{
+    text-align: end;
+    font-size: small;
+}
