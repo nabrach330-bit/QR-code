@@ -1,1 +1,1 @@
-This is my first website. i am going to do a QR code using HTML and CSS.
+This is my first website a new bie challenge by Frontend mentor.
